@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rkolagatla
 - 👀 I’m interested in Financial Markets and Technology
-- 🌱 I’m currently learning Web Frameworks
 - 💞️ I’m looking to collaborate on innovative bleeding edge technologies
 - 📫 How to reach me: rkolagatla@gmail.com
 
